@@ -4,8 +4,6 @@
 #
 
 PROJECT_NAME := windmeter
-IDF_PATH := $(CURDIR)/esp-idf/
-
 
 include $(IDF_PATH)/make/project.mk
 
