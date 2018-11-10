@@ -1,4 +1,5 @@
 # windmeter
+[![Build Status](https://travis-ci.com/BBekker/windmeter.svg?branch=master)](https://travis-ci.com/BBekker/windmeter)
 ESP32 firmware for a retrofit of a classic wind meter
 
 
